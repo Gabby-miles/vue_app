@@ -1,0 +1,17 @@
+body {
+	background-color: lightblue;
+	text-align: left;
+
+}
+h1 {
+	text-align: center;
+}
+
+#friends {
+	background-color: white;
+ 	width: 50%;
+    border: 15px solid teal;
+    padding: 15px;
+    margin: 50px;
+}
+
